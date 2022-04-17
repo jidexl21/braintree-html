@@ -674,3 +674,9 @@ ol.bus-blk>li:nth-child(12)::before{
 .nav-link {
   color: #b7b1b1;
 }
+.cat-name {
+  text-transform: uppercase;
+  font-size: small;
+  margin-bottom: 3vh;
+  display: inline-block
+}
