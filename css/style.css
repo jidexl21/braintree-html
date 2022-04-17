@@ -680,3 +680,6 @@ ol.bus-blk>li:nth-child(12)::before{
   margin-bottom: 3vh;
   display: inline-block
 }
+.txt-sm {
+  font-size: small;
+}
